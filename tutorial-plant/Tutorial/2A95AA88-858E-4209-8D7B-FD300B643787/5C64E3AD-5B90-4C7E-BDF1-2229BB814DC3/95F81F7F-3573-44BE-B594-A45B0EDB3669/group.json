@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "95F81F7F-3573-44BE-B594-A45B0EDB3669",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 50,
+    "x": 208,
+    "y": 201
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D3BED645-4727-4C30-854F-3EE054CB378C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9CF859E4-8576-4F20-9AC6-634BD0730EE4"
+    },
+    {
+      "class": "text",
+      "id": "361614DF-B42D-4A52-B64E-F470E278925E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0694E0E9-3AF8-4127-9BA5-09A814AFC1EA"
+    }
+  ],
+  "name": "hot003",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

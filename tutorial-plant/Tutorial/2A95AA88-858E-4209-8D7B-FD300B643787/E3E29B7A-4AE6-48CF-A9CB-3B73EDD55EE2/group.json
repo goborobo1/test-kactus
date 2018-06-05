@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "E3E29B7A-4AE6-48CF-A9CB-3B73EDD55EE2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 453,
+    "width": 1034,
+    "x": 129,
+    "y": 285
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5800D1CB-E71A-4D17-B138-8E17AA0EE38A"
+    },
+    {
+      "class": "bitmap",
+      "id": "E0ED6FE4-E3C3-4BB5-9FF7-607EED8539DE"
+    },
+    {
+      "class": "group",
+      "id": "AC8FD609-547C-49C2-BAF8-AE36079B49A7"
+    },
+    {
+      "class": "text",
+      "id": "B054C0B0-A3E3-40D1-9C9D-0F062DD1951F"
+    },
+    {
+      "class": "text",
+      "id": "6E7A1072-08D3-4188-AB42-D3F32BB08FE5"
+    }
+  ],
+  "name": "Create project",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
